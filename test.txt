@@ -1,2 +1,3 @@
 new file
 two lines
+third line
